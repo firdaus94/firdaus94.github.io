@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Syntax Highlighting Post
-excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
+title: SISTEM INFORMASI
+excerpt: "IAIN Sultan Syarif Qasim (IAIN Suska) mendirikan Jurusan Sistem Informasi pada tahun ajaran 2002/2003 sejalan dengan rencana untuk meningkatkan status IAIN menjadi Universitas Islam Negeri (UIN) Riau, yang saat ini telah terlaksana."
 tags: [sample post, code, highlighting]
 modified: 2014-09-14
 comments: true
