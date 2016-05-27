@@ -33,7 +33,7 @@ owner:
   email: 
   disqus-shortname: 
   twitter: #username
-  facebook: deactivate.py #username
+  facebook: #username
   google:
     plus:#username
     analytics: 
@@ -41,7 +41,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: kampar #username
+  github: firdaus94 #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
