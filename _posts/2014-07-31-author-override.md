@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Author Override"
+title: "FAKULTAS SAINS DAN TEKNOLOGI"
 author: billy_rick
 modified:
-excerpt: "A post to test author overrides using a data file."
+excerpt: "Fakultas Sains dan Teknologi didirikan pada akhir tahun 2001 sebagai persiapan perubahan status dari Institut Agama Islam Negeri Sultan Syarif Qasim (IAIN SUSQA) Pekanbaru menjadi Universitas Islam Negeri Sultan Syarif Kasim Riau (UIN Suska) Riau. Cikal bakal berdirinya Fakultas Sains dan Teknologi bermula dibukanya Jurusan Teknik Informatika pada tahun 1999 dan jurusan Teknik Industri pada tahun 2001"
 tags: []
 ---
 
