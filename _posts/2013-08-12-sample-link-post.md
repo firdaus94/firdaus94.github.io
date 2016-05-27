@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Sample Link Post"
-excerpt: "Example and code for using link posts."
+title: "PROFIL SAYA"
+excerpt: "Nama saya firdaus, sekarang saya sudah semester VI."
 tags: [sample post, link post]
 link: http://mademistakes.com  
 share: true
