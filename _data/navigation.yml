@@ -1,13 +1,13 @@
 # Site navigation links
 
 - title: HOME
-  url: /HOME/
+  url: /about/
 
 - title: PROFILE
-  url: /PROFILE/
+  url: /posts/
 
 - title: JURUSAN
-  url: /JURUSAN/
+  url: /theme-setup/
 
 - title: FAKULTAS
   url: http://mademistakes.com
